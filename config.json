@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "local_server" : "True",
+    "local_uri" : "mysql://root:@localhost/dolton_database",
+    "prod_uri" : "mysql://root:@localhost/dolton_database",
+    "fb_url" : "https://www.facebook.com/shubh.kaushik05/",
+    "git_url" : "https://github.com/skaushik-05",
+    "tw_url": "https://twitter.com/imskaushik_",
+    "blog_name" : "Dolton's Social Blog",
+    "tag_line" : "A blog for everyone",
+    "gmail-user" : "doltonsocialblog@gmail.com",
+    "gmail-password" : "Gurukul@20",
+    "about-us" : " I have diverse experience of over 5 years in statistical data analysis, data visualization, machine learning model building and model validation.\n\nUsed machine learning techniques such as clustering, classification, regression, naïve bayes algorithm, principal component analysis decision trees, Random forest and XGBOOST to generate insights for decision making\n\nPerformed data mining, data cleaning & explored data visualization techniques on a variety of data stored in spreadsheets and text files, JSON, mongo Db using R and Python.\n\nDeep expertise with mathematical and statistical data mining using R, proficient in Python as well. \n\nexpertise in productionisation of machine learning models, deployment, feature engineering , feature selection\n\nExcellent exposure in designing and developing Tableau, Power BI reports and dashboards for data visualization \n\nPattern classification techniques: Bayesian Classifiers, Nearest Neighbour classification, Decision trees, Rule based systems, Artificial Neural Networks, Support Vector Machines, Ensemble methods - Random Forests, Bagging, Boosting.",
+    "num_of_post": 4,
+    "copy_year" : "2020-21",
+    "login_image" : "login.png",
+    "admin-username" : "kaushik-admin",
+    "admin-password" : "admin",
+    "upload_location" : "C:\\Users\\Shubham Kaushik\\PycharmProjects\\flask-tut\\static\\img"
+  }
+
+}
